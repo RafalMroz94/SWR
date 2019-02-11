@@ -10,7 +10,7 @@
 * [Contact](#contact)
 
 ## General info
-Switchgear visualisation system - my project made for study subject called "Advanced internet programming technologies". It's simple web application written in PHP, it uses SQLite database to store information and GD2 library for dynamic image generation. For front end I used only basic HTML and CSS.
+Switchgear visualisation system - my project made for study subject called "Advanced internet programming technologies". It's simple web application written in PHP, it uses SQLite database to store information and GD2 library for dynamic image generation. For front-end only basic HTML and CSS was used.
 
 This is my first encounter with PHP and the code is a bit messy. Despite this I managed to get the highest mark and distinction by teacher for making this project.
 
@@ -50,6 +50,15 @@ This is my first encounter with PHP and the code is a bit messy. Despite this I 
 `;extension_dir = "ext"`  
 `;extension=gd2`  
 `;extension=pdo_sqlite`
+3. Accounts in default database:  
+  * `username: admin1`  
+`password: !admin111`
+  * `username: admin2`  
+`password: @admin222`
+  * `username: user1`  
+`password: !user111`
+  * `username: user2`  
+`password: @user222`
 
 ## Status
 Project is: **finished**
